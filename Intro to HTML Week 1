@@ -5,30 +5,6 @@
         <title>First webpage</title>
     </head>
     <body>
-        <h1>This is a header</h1>
-        <p> This is a test!!</p>
-        <p>email me at rolayo@gmail.com</p>
-        <p>Or write me in Spanish:</p>
-        <p>Escríbeme por la duración de la
-        clase del niño. ¿Acaso no es cierto?</p>
-        <p>Welcome to HTML Introduction. The first tag we will learn is the &lt;html&gt; tag.</p>
-        <p>&lt;a href=&quot;https://w3.org&quot;&gt;W3C &amp; HTML5&lt;/a&gt;</p>
-        <pre>
-            <h1>This is a header</h1>
-            <p>And this is a paragraph</p>
-        </pre>
-        <p><q>Why would anyone do this</q></p>
-        <blockquote>I do not consent to his but if it makes you happy, then there it is</blockquote>
-        <ul>
-            <li>crackers</li>
-            <li>rice</li>
-            <li>noodles</li>
-        </ul>
-        <hr>
-        <ol>
-            <li>get the components</li>
-            <li>arrange them</li>
-        </ol>
         <h1>
             Mis escritos (fragmento)
         </h1>
@@ -42,7 +18,9 @@
             son la excusa del depredador<br>
             para hacer dinero fácil<br>
         </p>
+        <hr>
         <article>Esta es una prueba del tag &lt;article&gt;</article>
+        <hr>
         <p>Definiciones de la palabra:</p>
         <h2>momento</h2>
         <ol>
